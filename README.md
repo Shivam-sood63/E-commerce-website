@@ -1,2 +1,2 @@
 # E-commerce-website
- desktop responsive
+ desktop Responsive Only
